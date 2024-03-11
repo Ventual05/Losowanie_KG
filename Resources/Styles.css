@@ -1,0 +1,128 @@
+﻿.page-background {
+    background-color: #f2f2f2;
+}
+
+.toolbar-item {
+    font-size: 18;
+    font-weight: bold;
+}
+
+.class-page-container {
+    background-color: #f2f2f2;
+    padding: 20;
+}
+
+
+
+
+.student-list {
+    margin-top: 10;
+}
+
+.student-control-container {
+    border: 1 solid #ccc;
+    border-radius: 5;
+    margin-bottom: 10;
+    padding: 10;
+    display: flex;
+    align-items: center;
+}
+
+^Label {
+    font-weight: bold;
+    margin-right: 10;
+}
+
+.student-checkbox {
+    margin-right: 10;
+}
+
+.edit-student-button {
+    vertical-align: central;
+    margin: 0,0,5,0;
+}
+
+.delete-student-button {
+    vertical-align: central;
+    margin: 0,0,0,0;
+}
+
+.edit-student-button,
+.delete-student-button {
+    margin-left: 10;
+}
+
+.draw-button,
+.add-student-button {
+    margin-top: 20;
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    padding: 10;
+}
+
+/* MainPage */
+#main-page-container {
+    padding: 20;
+}
+
+.class-button {
+    background-color: #008CBA;
+    color: white;
+    font-weight: bold;
+    padding: 10;
+    margin-bottom: 10;
+}
+
+.add-class-button {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    padding: 10;
+    margin-top: 20;
+}
+
+.student-page-container {
+    padding: 20;
+    display: flex;
+    align-items: center;
+}
+
+^Entry {
+    margin-right: 10;
+    color: #000000;
+}
+
+.present-checkbox {
+    margin-right: 10;
+}
+
+.save-button {
+    background-color: #008CBA;
+    color: white;
+    font-weight: bold;
+    padding: 10;
+    margin-top: 20;
+}
+
+.student-container {
+    padding: 10;
+}
+
+.student-id-label {
+    margin-right: 10;
+}
+
+.student-name-label {
+    margin-right: 10;
+    color: #333333;
+}
+
+.student-surname-label {
+    margin-right: 10;
+    color: #333333;
+}
+
+.student-checkbox {
+    margin-right: 10;
+}
